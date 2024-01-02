@@ -1,0 +1,26 @@
+
+.left-bar-logo{
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+.left-bar-container{
+    background-color: white;
+    width: 25%;
+    max-width: 250px;
+    padding: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px 0 15px -5px rgba(0, 0, 0, 0.8);
+
+}
+
+p{
+    margin-bottom: 20px;
+    color: grey;
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+.p-select{
+    border-left: orange solid 3px;
+}
