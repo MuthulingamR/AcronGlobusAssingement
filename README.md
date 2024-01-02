@@ -19,10 +19,5 @@ This project is a simplified clone of Stack Overflow, implemented using React. I
 - **Left Sidebar:** Provides navigation links for different sections such as questions, jobs, documentation, tags, users, badges, etc.
 - **Footer:** Contains links to various sections, social media icons, and additional information.
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/stackoverflow-clone.git
 
